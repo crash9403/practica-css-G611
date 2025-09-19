@@ -1,3 +1,25 @@
-body {
-  background-color: aquamarine;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
+
+header {
+  background-color: #3f8feb;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
+
+#nombre {
+  color: red;
+}
+
+h1 {
+  color: black;
+}
+
+h1 {
+  color: green;
+}
+
